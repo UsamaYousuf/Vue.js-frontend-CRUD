@@ -1,4 +1,4 @@
-# practiceapp
+# Vue.js CRUD (BASED ON OPTIONS API)
 
 ## Project setup
 ```
